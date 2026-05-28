@@ -71,5 +71,8 @@
 <li>모든 사람이 2문제씩을 맞췄습니다.</li>
 </ul>
 
+<img width="1842" height="818" alt="스크린샷 2026-05-28 오후 2 50 38" src="https://github.com/user-attachments/assets/0bea3b93-e135-4196-a524-def426a33046" />
+
+
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
