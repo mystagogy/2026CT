@@ -99,5 +99,6 @@
 <p>입출력 예 #2<br>
 문제의 예시와 같습니다.</p>
 
+<img width="1851" height="880" alt="스크린샷 2026-05-28 오후 3 53 30" src="https://github.com/user-attachments/assets/67dea2c8-3f1c-4855-ac0f-f6b9b3c7f0e0" />
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
