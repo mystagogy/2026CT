@@ -1,3 +1,4 @@
+<img width="1897" height="925" alt="스크린샷 2026-05-28 오후 2 59 39" src="https://github.com/user-attachments/assets/cec7e622-fa41-413d-bb26-d20760f6a0c2" />
 # [level 1] 두 개 뽑아서 더하기 - 68644 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=python3) 
@@ -79,6 +80,8 @@
 <li>12 = 5 + 7 입니다.</li>
 <li>따라서 <code>[2,5,7,9,12]</code> 를 return 해야 합니다.</li>
 </ul>
+
+<img width="1897" height="925" alt="스크린샷 2026-05-28 오후 2 59 39" src="https://github.com/user-attachments/assets/7c8e51b6-7fc7-45ae-ad56-c003f67db683" />
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
