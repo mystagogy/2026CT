@@ -1,4 +1,3 @@
-<img width="1897" height="925" alt="스크린샷 2026-05-28 오후 2 59 39" src="https://github.com/user-attachments/assets/cec7e622-fa41-413d-bb26-d20760f6a0c2" />
 # [level 1] 두 개 뽑아서 더하기 - 68644 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/68644?language=python3) 
